@@ -51,7 +51,7 @@ HackathonApp/
 
 1. **Clone the repository:**
    ```powershell
-   git clone https://github.com
+   git clone https://github.com/mikel-k-khui/HackathonApp
    cd HackathonApp
    ```
 2. **Open in VS Code:**
